@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter</title>
+    <link rel="stylesheet" href="temperature_converter.css">
+</head>
+
+<!-- <style>
+    
+</style> -->
+
+<body>
+    <header></header>
+    <main>
+        <div id="main1">Fahrenheit to Celsius Converter</div>
+        <div id="main2">ENTER A NUMBER </div>
+        <div id="main3e">
+            <label for="type">Type</label>
+            <select name="mytype" id="type" onchange="convertDegree()">
+                <option value="FAHRENHEIT">FAHRENHEIT</option>
+                <option value="Celcius">Celcius</option>
+            </select>
+        </div>
+        <div id="main3">
+            <form>
+                <input type="text" id="main3a" name="number" placeholder="Enter &deg;F" /><br />
+                <input type="button" id="main3b" value="Convert Temperature" onclick="convertfehrenheit()" />
+
+                <input type="text" id="main3c" name="number" placeholder="Result &deg;C" /><br />
+
+            </form>
+    </main>
+    <footer></footer>
+
+    <script src="temperature_converter.js"></script>
+
+    <!-- <script>
+
+        
+    </script> -->
+
+</body>
+
+</html>

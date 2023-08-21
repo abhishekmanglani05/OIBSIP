@@ -1,0 +1,280 @@
+.left1 {
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 350px;
+    margin-bottom: 25px;
+}
+
+.right1 {
+    display: inline-block;
+    /* margin-top: 50px; */
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+    font-size: 20px;
+
+}
+
+.navbar li a {
+    padding: 13px 13px;
+    text-decoration: none;
+    /* color: #70C9E7; */
+}
+
+/* .navbar li a.active {
+    text-decoration: underline;
+    color: grey;
+} */
+.navbar li a:hover {
+    /* text-decoration: underline; */
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+}
+
+#main1 {
+    background-color: #8B9E70;
+    height: 400px;
+}
+
+#main2 {
+    background-color: white;
+    height: 180px;
+}
+
+#main3 {
+    position: absolute;
+    top: 427px;
+    left: 650px;
+}
+
+#main3 img {
+    height: 250px;
+}
+
+#main4 {
+    position: absolute;
+    top: 200px;
+    font-size: larger;
+    color: aliceblue;
+    width: 300px;
+    margin-left: 75px;
+}
+
+#main5 {
+    position: absolute;
+    top: 420px;
+    margin-left: 14px;
+    font-size: 30px;
+}
+
+#main5 ul {
+    overflow: auto;
+}
+
+#main5 li {
+    float: left;
+    list-style: none;
+    margin: 13px 20px;
+    /* background-color: black;
+    border-radius: 30px; */
+
+
+}
+
+#main5 li a {
+    padding: 10px 10px;
+    text-decoration: none;
+    /* color: #70C9E7; */
+}
+
+#main5 li a:hover {
+    /* text-decoration: underline; */
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+}
+
+#main6 {
+    position: absolute;
+    top: 312px;
+    left: 1160px;
+}
+
+#main6 img {
+    height: 338px;
+}
+
+#main7 {
+    position: absolute;
+    top: 200px;
+    left: 775px;
+}
+
+#main7 img {
+    height: 200px
+}
+
+#footer {
+    background-color: #8B9E70;
+    height: 500px;
+}
+
+#footer1 {
+    position: absolute;
+    background-color: #FFFFFF;
+    height: 450px;
+    width: 286px;
+    top: 750px;
+    left: 45px
+}
+
+#footer1 h1 {
+    /* text-align: center; */
+    text-align: center;
+}
+
+#footer1 div {
+    /* text-align: center; */
+    text-align: center;
+}
+
+#footer1a {
+    position: absolute;
+    top: 300px;
+    left: 105px;
+    background-color: #8B9E70;
+    font-size: 20px;
+    padding: 5px 5px;
+    /* color: black; */
+    /* text-decoration: none;
+    list-style: none; */
+}
+
+#footer2 {
+    position: absolute;
+    background-color: #F5F5F5;
+    height: 450px;
+    width: 286px;
+    top: 750px;
+    left: 331px
+}
+
+#footer2 div {
+    /* text-align: center; */
+    text-align: center;
+}
+
+#footer2 img {
+    height: 225px
+}
+
+#footer2a {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+#footer2b {
+    position: absolute;
+    top: 295px;
+    left: 95px
+}
+
+#footer3 {
+    position: absolute;
+    background-color: #FFFFFF;
+    height: 450px;
+    width: 286px;
+    top: 750px;
+    left: 617px
+}
+
+#footer3 img {
+    height: 225px
+}
+
+#footer3a {
+    position: absolute;
+    top: 50px;
+    left: 70px;
+}
+
+#footer3 div {
+    /* text-align: center; */
+    text-align: center;
+}
+
+#footer3b {
+    position: absolute;
+    top: 295px;
+    left: 95px
+}
+
+#footer4 {
+    position: absolute;
+    background-color: #F5F5F5;
+    height: 450px;
+    width: 286px;
+    top: 750px;
+    left: 903px
+}
+
+#footer4 img {
+    height: 225px
+}
+
+#footer4a {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+#footer4 div {
+    /* text-align: center; */
+    text-align: center;
+}
+
+#footer4b {
+    position: absolute;
+    top: 295px;
+    left: 95px
+}
+
+#footer5 {
+    position: absolute;
+    background-color: #FFFFFF;
+    height: 450px;
+    width: 286px;
+    top: 750px;
+    left: 1189px
+}
+
+#footer5 img {
+    height: 225px
+}
+
+#footer5a {
+    position: absolute;
+    top: 50px;
+    left: 70px;
+}
+
+#footer5 div {
+    /* text-align: center; */
+    text-align: center;
+}
+
+#footer5b {
+    position: absolute;
+    top: 295px;
+    left: 95px
+}

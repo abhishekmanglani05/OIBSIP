@@ -1,0 +1,80 @@
+body {
+    background-color: #313B7B;
+}
+
+#main1 {
+    position: absolute;
+    top: 150px;
+    left: 500px;
+    color: white;
+    font-size: 40px;
+
+}
+
+#main2 {
+    position: absolute;
+    top: 250px;
+    left: 465px;
+    color: white;
+    font-size: 25px;
+}
+
+#main3 {
+    position: absolute;
+    top: 300px;
+    height: 400px;
+    width: 1500px;
+    background-color: #313B7B;
+}
+
+#main3a {
+    position: absolute;
+    top: 20px;
+    left: 450px;
+    height: 200px;
+    width: 220px;
+    font-size: 40px;
+    background-color: #313B7B;
+    color: white;
+}
+
+
+#main3b {
+    position: absolute;
+    top: 340px;
+    left: 650px;
+    height: 50px;
+    width: 200px;
+    background-color: #313B7B;
+    color: white;
+    font-size: 20px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#main3b:hover {
+    background-color: rgb(77, 80, 68);
+}
+
+
+#main3c {
+    position: absolute;
+    top: 20px;
+    left: 850px;
+    height: 200px;
+    width: 220px;
+    font-size: 40px;
+    background-color: #313B7B;
+    color: white;
+}
+
+#main3e {
+    position: absolute;
+    left: 800px;
+    top: 250px;
+    font-size: 25px;
+}
+
+#main3e label {
+    color: white;
+}
